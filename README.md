@@ -85,6 +85,8 @@
 
 <hr/>
 
+<h2 align="center">⚡ Thank you for visiting ⚡</h2>
+
 <br/>
 
 
