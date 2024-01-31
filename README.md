@@ -30,9 +30,11 @@
 - 📫 How to reach me **marouanelankaoui66@gmail.com**
 
 - ⚡ Fun fact **I think I am awesome**
-</div>
 
 <img align="right" alt="MLankaoui" style="width:50%; height:350px; float:right" src="https://imgs.search.brave.com/v4v5yyvoqT4GzShrqDf8K6EQ4W2yFDsJoMYYCAwkeew/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vcXVvdGV0/aGVhbmltZS5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMjEv/MDYvSmluLVdvby5q/cGc">
+</div>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
