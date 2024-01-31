@@ -2,7 +2,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=mlankaoui&label=Profile%20views&color=0e75b6&style=flat" alt="mlankaoui" /> </p>
 
-<h1 align="center">Hi 👋, I'm Lankaoui Marouane</h1>
+<h1 align="center">Hi 👋, I'm <span style="color:#CC0FE6;"> Lankaoui Marouane </span></h1>
 <h3 align="center">A passionate software engineering student from Morocco</h3>
 <img align="center" alt="Coding" width="100%" style="border: 1px solid red; display: block; margin-left: auto; margin-right: auto;" src="https://imgs.search.brave.com/eHkWsPYdRPiinQOTQ1G5pQdvYdGRQukO6trEpIDYasQ/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9wcmV2/aWV3LnJlZGQuaXQv/c29sby1sZXZlbGlu/Zy1hbmltZS1lcC0x/LXYwLWhld3pnamY4/MnZhYzEuanBnP3dp/ZHRoPTY0MCZjcm9w/PXNtYXJ0JmF1dG89/d2VicCZzPWQ2OTZh/OTI4N2E5ZmZjYzdj/ODZhN2YwZmY1NTcw/NWY2YTc2N2U0ZGE"/>
 
