@@ -11,30 +11,31 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mlankaoui" alt="mlankaoui" /></a> </p>
 <div style="display:flex">
-<div style="width:25%;">
+    <div style="width:25%;">
 
-- 🔭 I’m currently working on [Alx_Low_Level_programming](https://github.com/MLankaoui/alx-low_level_programming)
+        - 🔭 I’m currently working on [Alx_Low_Level_programming](https://github.com/MLankaoui/alx-low_level_programming)
 
-- 🌱 I’m currently learning **C , JavaScript**
+        - 🌱 I’m currently learning **C , JavaScript**
 
-- 👯 I’m looking to collaborate on [Alx_Low_Level_programming](https://github.com/MLankaoui/alx-low_level_programming)
+        - 👯 I’m looking to collaborate on [Alx_Low_Level_programming](https://github.com/MLankaoui/alx-low_level_programming)
 
-- 🤝 I’m looking for help with [Alx_Low_Level_programming](https://github.com/MLankaoui/alx-low_level_programming)
+        - 🤝 I’m looking for help with [Alx_Low_Level_programming](https://github.com/MLankaoui/alx-low_level_programming)
 
-- 👨‍💻 All of my projects are available at [https://marouanelankaoui.netlify.app](https://marouanelankaoui.netlify.app)
+        - 👨‍💻 All of my projects are available at [https://marouanelankaoui.netlify.app](https://marouanelankaoui.netlify.app)
 
-- 📝 I regularly write articles on [https://marouanelankaoui.netlify.app/blog](https://marouanelankaoui.netlify.app/blog)
+        - 📝 I regularly write articles on [https://marouanelankaoui.netlify.app/blog](https://marouanelankaoui.netlify.app/blog)
 
-- 💬 Ask me about **C , JavaScript , Html , Css**
+        - 💬 Ask me about **C , JavaScript , Html , Css**
 
-- 📫 How to reach me **marouanelankaoui66@gmail.com**
+        - 📫 How to reach me **marouanelankaoui66@gmail.com**
 
-- ⚡ Fun fact **I think I am awesome**
+        - ⚡ Fun fact **I think I am awesome**
 
+    </div>
 
+    <img align="right" alt="MLankaoui" style="width:50%; height:350px; object-fit: cover;" src="https://imgs.search.brave.com/v4v5yyvoqT4GzShrqDf8K6EQ4W2yFDsJoMYYCAwkeew/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vcXVvdGV0/aGVhbmltZS5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMjEv/MDYvSmluLVdvby5q/cGc">
 </div>
-<img align="right" alt="MLankaoui" style="width:50%; height:350px" src="https://imgs.search.brave.com/v4v5yyvoqT4GzShrqDf8K6EQ4W2yFDsJoMYYCAwkeew/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vcXVvdGV0/aGVhbmltZS5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMjEv/MDYvSmluLVdvby5q/cGc">
-</div>
+
 
 
 
