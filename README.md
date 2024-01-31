@@ -20,15 +20,14 @@
 
 - 🤝 I’m looking for help with [Alx_Low_Level_programming](https://github.com/MLankaoui/alx-low_level_programming)
 
-- 👨‍💻 All of my projects are available at [https://marouanelankaoui.netlify.app](https://marouanelankaoui.netlify.app)
+- 👨‍💻 All of my projects are available at <a href="https://marouanelankaoui.netlify.app" style="color: #CC0FE6;">https://marouanelankaoui.netlify.app</a>
 
-- 📝 I regularly write articles on [https://marouanelankaoui.netlify.app/blog](https://marouanelankaoui.netlify.app/blog)
+- 📝 I regularly write articles on <a href="https://marouanelankaoui.netlify.app/blog" style="color: #CC0FE6;">https://marouanelankaoui.netlify.app/blog</a>
 
 - 💬 Ask me about **C , JavaScript , Html , Css**
 
-- 📫 How to reach me **marouanelankaoui66@gmail.com**
+- 📫 How to reach me <a href="mailto:marouanelankaoui66@gmail.com" style="color:#CC0FE6;">marouanelankaoui66@gmail.com</a>
 
-- ⚡ Fun fact **I think I am awesome**
 
  ### 🌟 Hobbies:
  - Watching animes 🤭
