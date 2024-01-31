@@ -1,10 +1,12 @@
 ### Hi there 👋
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=mlankaoui&label=Profile%20views&color=0e75b6&style=flat" alt="mlankaoui" /> </p>
+
 <h1 align="center">Hi 👋, I'm Lankaoui Marouane</h1>
 <h3 align="center">A passionate software engineering student from Morocco</h3>
-<img align="center" alt="Coding" width="700px" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"/>
+<img align="center" alt="Coding" width="700px" src="https://imgs.search.brave.com/eHkWsPYdRPiinQOTQ1G5pQdvYdGRQukO6trEpIDYasQ/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9wcmV2/aWV3LnJlZGQuaXQv/c29sby1sZXZlbGlu/Zy1hbmltZS1lcC0x/LXYwLWhld3pnamY4/MnZhYzEuanBnP3dp/ZHRoPTY0MCZjcm9w/PXNtYXJ0JmF1dG89/d2VicCZzPWQ2OTZh/OTI4N2E5ZmZjYzdj/ODZhN2YwZmY1NTcw/NWY2YTc2N2U0ZGE"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mlankaoui&label=Profile%20views&color=0e75b6&style=flat" alt="mlankaoui" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mlankaoui" alt="mlankaoui" /></a> </p>
 
