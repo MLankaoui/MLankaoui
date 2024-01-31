@@ -11,6 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mlankaoui" alt="mlankaoui" /></a> </p>
 
+<div width="50%" float="left">
 - 🔭 I’m currently working on [Alx_Low_Level_programming](https://github.com/MLankaoui/alx-low_level_programming)
 
 - 🌱 I’m currently learning **C , JavaScript**
@@ -28,7 +29,8 @@
 - 📫 How to reach me **marouanelankaoui66@gmail.com**
 
 - ⚡ Fun fact **I think i am awesome**
-
+<div>
+<img align="rigth" alt="MLankaoui" width="50%" src="https://imgs.search.brave.com/v4v5yyvoqT4GzShrqDf8K6EQ4W2yFDsJoMYYCAwkeew/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vcXVvdGV0/aGVhbmltZS5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMjEv/MDYvSmluLVdvby5q/cGc">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
