@@ -34,7 +34,7 @@
  - Watching animes 🤭
   </td>
   <td>
-    <img src="https://imgs.search.brave.com/v4v5yyvoqT4GzShrqDf8K6EQ4W2yFDsJoMYYCAwkeew/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vcXVvdGV0/aGVhbmltZS5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMjEv/MDYvSmluLVdvby5q/cGc" alt="keqing" width="1000" height="350px"/>
+    <img src="https://imgs.search.brave.com/IXUjEq-6XYqk8Bz5pU4-BeZ_HRrhVkubVnbNWKgDFIQ/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9zdXBl/cmhlcm9qYWNrZWQu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDIyLzAzL1N1bmct/Smlud29vLXdvcmtv/dXQtMi5qcGc" alt="keqing" width="1000" height="350px"/>
   </td>
 </tr>
 </table>
