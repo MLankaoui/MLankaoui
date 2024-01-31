@@ -38,13 +38,13 @@
   </td>
 </tr>
 </table>
-
-
-
 <hr>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mlankaoui" alt="mlankaoui" /></a> </p>
-
+<div align="center">
+  <h2> 🏆Trophy<h2>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MLankaoui&theme=darkhub&row=1&column=9" alt="mlankaoui" /></a> 
+  </p>
+<div>
+<hr>
 
 <div align="center">
 <h3 align="left">Connect with me:</h3>
@@ -55,11 +55,7 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
-<div align="center">
-  <h2> 🏆Trophy<h2>
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MLankaoui&theme=darkhub&row=1&column=9" alt="mlankaoui" /></a> 
-  </p>
-<div>
+
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
