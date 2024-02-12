@@ -2,7 +2,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=mlankaoui&label=Profile%20views&color=0e75b6&style=flat" alt="mlankaoui" /> </p>
 
-<img align="center" alt="Coding" width="100%" style="border: 1px solid red; display: block; margin-left: auto; margin-right: auto;" src="https://imgs.search.brave.com/GCfUx_dFD7MeoNiXpC21hvtzO1DJKNfYTFa50hWWwfE/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9wbTEu/bmFydmlpLmNvbS81/ODY4LzU2YjYwMzVh/ODgwY2I5NGU2MzMx/NTM4MWIwMjA3MTlm/NDU5YjRiNTdfaHEu/anBn"/>
+<img align="center" alt="Coding" width="100%" style="border: 1px solid red; display: block; margin-left: auto; margin-right: auto;" src="https://images3.alphacoders.com/118/118329.jpg"/>
 
 <table width="100%">
 <tr>
