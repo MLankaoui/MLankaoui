@@ -8,7 +8,7 @@
 <tr>
   <td>
     <h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CC0FE6&random=false&width=435&lines=Hi+im+Marouane+Lankaoui;A+passionate+;software+engineering+student+;from+Morocco" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=#6D3B19&random=false&width=435&lines=Hi+im+Marouane+Lankaoui;A+passionate+;software+engineering+student+;from+Morocco" alt="Typing SVG" /></a>
 
 </h1>
     
