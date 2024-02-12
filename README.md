@@ -79,7 +79,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=750 src="https://github-readme-stats.vercel.app/api?username=MLankaoui&theme=midnight-purple&show_icons=true" alt="readme stats" />
+  <img width=750 src="https://github-readme-stats.vercel.app/api?username=MLankaoui&theme=kacho_ga&show_icons=true" alt="readme stats" />
 <br/><br/>
 
 <hr/>
